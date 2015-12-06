@@ -1,6 +1,5 @@
 {
   "main": "less",
-  "registry": "jspm",
   "dependencies": {
     "less": "^2.5.3"
   }
