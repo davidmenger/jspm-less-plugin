@@ -1,4 +1,4 @@
-var less = require('less');
+var less = require('less-engine');
 
 if (typeof window !== 'undefined') {
 

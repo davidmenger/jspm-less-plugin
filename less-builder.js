@@ -1,6 +1,6 @@
 var CleanCSS = require('clean-css');
 var fs = require('fs');
-var less = require('less');
+var less = require('less-engine');
 
 function escape(source) {
 	return source

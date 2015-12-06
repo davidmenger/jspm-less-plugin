@@ -2,6 +2,6 @@
   "main": "less",
   "registry": "jspm",
   "dependencies": {
-    "npm:less": "^2.5.3"
+    "less-engine": "npm:less@^2.5.3"
   }
 }
