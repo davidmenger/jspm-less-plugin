@@ -1,4 +1,4 @@
-var less = require('less.js');
+var less = require('less');
 
 if (typeof window !== 'undefined') {
 
